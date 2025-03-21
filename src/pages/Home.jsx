@@ -8,11 +8,13 @@ import Price from '../components/home/Price'
 import Menu from '../components/home/Menu'
 import Testimonial from '../components/home/Testimonial'
 import Location from '../components/home/Location'
+import Rooms from '../components/home/Rooms'
 
 const Home = () => {
   return (
     <>
         <Banner />
+        <Rooms />
         <Facility/>
         <Gallery />
         <Counter />
