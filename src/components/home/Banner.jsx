@@ -9,7 +9,7 @@ const Banner = () => {
             <div className="row">
                 <div className="col-lg-12">
                 <div className="si__slider__four__content text-center">
-                    <h2 className data-wow-delay=".4s">Maldives Luxury</h2>
+                    <h2 className data-wow-delay=".4s">Sleepy Lounge</h2>
                     <p>
                     A Luxury Hotel Located in the Maldives, Prices From $195 /
                     Night
